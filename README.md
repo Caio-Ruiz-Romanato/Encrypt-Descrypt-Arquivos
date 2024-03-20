@@ -1,6 +1,6 @@
 # Criptografa / Descriptografa Arquivos
 
-![Java Logo]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
 Feito especialmente para você que gosta de manter sua segurança em dia!
 
