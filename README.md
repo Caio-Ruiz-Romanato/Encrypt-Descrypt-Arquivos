@@ -1,19 +1,17 @@
 # Criptografa / Descriptografa Arquivos
 
+![Java Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+
 Feito especialmente para você que gosta de manter sua segurança em dia!
 
 O sistema foi criado para manter seus arquivos mais seguros, criptografando e descriptografando todo tipo de arquivo.
 
-## Caso queria criar o arquivo executavel segue abaixo o processo
+Caso queira criar o arquivo executável, siga o processo abaixo:
 
-- Abra o CMD
-
-- Navegue pelo disco local C: até a pasta da aplicação
-
-- Digite o comando abaixo:
-
-- jar cvfm Crypto.jar manifest.mf *.class classes/*.class
-
+1. Abra o CMD.
+2. Navegue até a pasta da aplicação no disco local C:.
+3. Digite o seguinte comando: jar cvfm Crypto.jar manifest.mf .class classes/.class
 
 ## Tecnologia Utilizada
-<img align="left" src="https://raw.githubusercontent.com/Caio-Ruiz-Romanato/Encrypt-Descrypt-Files/main/logo-java-256.png"/>
+
+Java foi a tecnologia principal utilizada para o desenvolvimento deste projeto.
